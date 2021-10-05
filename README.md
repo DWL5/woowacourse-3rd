@@ -183,7 +183,7 @@
 ### 블로그 포스팅
 
 - [테스트 실행 시간 줄이기](https://devlopsquare.tistory.com/227)
-- [Spring] Scheduling - CronTask](https://devlopsquare.tistory.com/229)
+- [[Spring] Scheduling - CronTask](https://devlopsquare.tistory.com/229)
 
 </br>
 
