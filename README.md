@@ -139,7 +139,6 @@
 
 - Thank you for_ _ _ 간편 도네이션 플랫폼
   - 컨텐츠에 대한 감사를 표한다
-
 - [Thank you for_ _ _ Repository](https://github.com/woowacourse-teams/2021-tyf)
 - [Thank you for_ _ _ 구경하기](https://thankyou-for.com/)
 
