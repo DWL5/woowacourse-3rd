@@ -21,11 +21,6 @@
 |  자동차 경주 게임  | [java-racingcar-precourse](https://github.com/DWL5/java-racingcar-precourse/tree/DWL5) | [Pull Request](https://github.com/woowacourse/java-racingcar-precourse/pull/316) |
 | 지하철 노선도 미션 | [java-subway-map-precourse](https://github.com/DWL5/java-subway-map-precourse/tree/DWL5) | [Pull Request](https://github.com/woowacourse/java-subway-map-precourse/pull/91) |
 
-### 블로그 포스팅
-
-- [[우아한테크코스] 우아한테크코스 프리코스 회고](https://devlopsquare.tistory.com/89)
-
-
 </br>
 
 ## ⭐️  Level 0.5 : 최종 코딩 테스트
