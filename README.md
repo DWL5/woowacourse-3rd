@@ -122,6 +122,13 @@
 - [배포를 해보자 AWS, nginx, HTTPS 그리고 Spring](https://devlopsquare.tistory.com/146)
 - [내가 만난 CORS 관련 문제](https://devlopsquare.tistory.com/150)
 
+### 미니 프로젝트 - 수코톡
+
+- 소켓통신에 대해 공부를 하고 싶어서 도전해본 프로젝트
+- 코틀린을 경험해보고 싶어 개발언어로 코틀린을 사용
+- 프론트엔드를 경험해보고싶어 리액트로 애플리케이션 단을 만들어봄
+- [레포지토리](https://github.com/sucosuco/sucosuco_spring-suco_talk)
+
 </br>
 
 ## ⭐️  Level 3 : Team Project
@@ -174,10 +181,25 @@
 | MVC 프레임워크 구현하기/step2  | [jwp-dashboard-mvc/step2](https://github.com/DWL5/jwp-dashboard-mvc/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/95) |  [파즈](https://github.com/Be-poz)  |
 | JDBC 라이브러리 구현하기/step1 | [jwp-dashboard-jdbc/step1](https://github.com/da-nyee/jwp-dashboard-jdbc/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/29) | [시드](https://github.com/hsik0225) |
 
+
+
+### 활동내용
+
+- [프로젝트 5차데모](https://www.youtube.com/watch?v=-O9Tjhadb_0&t=3s)
+
+  
+
 ### 블로그 포스팅
 
 - [테스트 실행 시간 줄이기](https://devlopsquare.tistory.com/227)
 - [[Spring] Scheduling - CronTask](https://devlopsquare.tistory.com/229)
+- [결제모듈 도입기 및 성능테스트를 위한 TYF-PAY](https://educated-hiss-a98.notion.site/TYF-PAY-d86fbe12003b438bbc65be8de056d7eb)
+
+### 테코톡
+
+- [TCP/IP](https://www.youtube.com/watch?v=BEK354TRgZ8)
+
+
 
 </br>
 
@@ -190,4 +212,4 @@
 | 1 - 기록 |        우아한테크코스 한 달 생활기         | [Level1](https://github.com/DWL5/woowa-writing-3/blob/main/%EC%88%98%EB%A6%AC_%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4_%ED%95%9C%EB%8B%AC_%EC%83%9D%ED%99%9C%EA%B8%B0.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/26) |  [워니](https://github.com/Wonmi91)  |
 | 2 - 성장 | 우테코에서 찾은<br/>나만의 효과적인 공부법 | [Level2](https://github.com/DWL5/woowa-writing-3/blob/main/%EC%88%98%EB%A6%AC_%EC%9A%B0%ED%85%8C%EC%BD%94%EC%97%90%EC%84%9C_%EC%B0%BE%EC%9D%80_%EB%82%98%EB%A7%8C%EC%9D%98_%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8_%EA%B3%B5%EB%B6%80%EB%B2%95.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/94) | [포비](https://github.com/pobiconan) |
 | 3 - 회고 |        팀 프로젝트가 나에게 남긴 것        | [Level3](https://github.com/DWL5/woowa-writing-3/blob/main/%EC%88%98%EB%A6%AC_%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%80_%EB%82%A8%EA%B8%B4%EA%B2%83.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/230) | [공원](https://github.com/woowapark) |
-
+| 4 - 시작 |       내가 생각하는 프로그래머로서의 삶        | [Level4](https://github.com/DWL5/woowa-writing-3/blob/main/%EC%88%98%EB%A6%AC_%EB%82%B4%EA%B0%80%EA%BF%88%EA%BE%B8%EB%8A%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A1%9C%EC%8D%A8%EC%9D%98%EC%82%B6.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/256) | [구구](https://github.com/kang-hyungu) |
