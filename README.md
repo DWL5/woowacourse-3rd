@@ -155,12 +155,12 @@
 
 - [SpringBoot Security 없이 Oauth2.0 로그인 Kakao편](https://devlopsquare.tistory.com/188)
 - [SpringBoot Security 없이 Oauth2.0 로그인 Naver편](https://devlopsquare.tistory.com/189)
+- [[AWS] AWS에는 무슨 서비스가 있을까?](https://devlopsquare.tistory.com/193)
+- [배포인프라 수업 다시보기](https://devlopsquare.tistory.com/198)
 - [[팀프로젝트] 1주차](https://devlopsquare.tistory.com/190)
 - [[팀프로젝트] 2주차](https://devlopsquare.tistory.com/191)
-- [[AWS] AWS에는 무슨 서비스가 있을까?](https://devlopsquare.tistory.com/193)
-- [[팀프로젝트]3주차](https://devlopsquare.tistory.com/194)
-- [[팀프로젝트]4주차](https://devlopsquare.tistory.com/196)
-- [배포인프라 수업 다시보기](https://devlopsquare.tistory.com/198)
+- [[팀프로젝트] 3주차](https://devlopsquare.tistory.com/194)
+- [[팀프로젝트] 4주차](https://devlopsquare.tistory.com/196)
 - [[팀프로젝트] 5,6주차](https://devlopsquare.tistory.com/200)
 
 </br>
